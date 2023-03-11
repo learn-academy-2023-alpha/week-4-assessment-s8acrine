@@ -39,7 +39,7 @@ In Ruby, the last line of code in a code block is implicitly returned. This mean
 1. What is a block in Ruby?
 
 Your answer:
-In Rubya block is an anonymous function that holds code. These are used primarily when setting up methods that perform an action on an iterable (such as an array). Map, for, etc all require a block to contain the code that will be used in the iteration. The syntax for creating a block is:
+In Ruby block is an anonymous function that holds code. These are used primarily when setting up methods that perform an action on an iterable (such as an array). Map, for, etc all require a block to contain the code that will be used in the iteration. The syntax for creating a block is:
 do |arguments|
     code goes here
 end
